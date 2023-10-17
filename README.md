@@ -1,4 +1,4 @@
-# SabitDizi
+
 struct Account yapısı: Bu yapı, adminlerin bilgilerini içerecek şekilde tanımlanabilir.
 
 Account[] public admins;: admins adında bir Account türünden dinamik bir dizi oluşturuldu. Bu dizi, admin hesaplarını depolamak için kullanılır.
